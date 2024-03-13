@@ -1,4 +1,4 @@
-Here's a template for your GitHub README.md file:
+
 
 ```markdown
 # FastAPI Google OAuth Example
@@ -9,7 +9,6 @@ This is an example FastAPI application demonstrating how to integrate Google OAu
 
 1. Clone this repository:
 
-```bash
 git clone https://github.com/yourusername/your-repo.git
 ```
 
